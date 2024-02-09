@@ -8,3 +8,4 @@ Option to request hints during gameplay.
 ASCII art representation of the hangman as the game progresses.
 Engaging and interactive gameplay experience.
 Get ready to test your vocabulary and deduction skills with Hangman!
+Co-Authored by: https://github.com/Arnesh24
